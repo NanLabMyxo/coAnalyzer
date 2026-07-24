@@ -3,6 +3,8 @@ coAnalyzer Release 1 Version 1.0
 
 Please cite: Myers, C. J., Nan, B. (2026) Quantitative Co-Localization Analysis in Fluorescence Microscopy. Bio-protocol, in press.
 
+Figures mentioned in this file are published in the paper above, which is an OpenAccess article.
+
 ## Key features
 
 - Provides both quantitative and semi-quantitative colocalization analysis using multiple coefficients.
